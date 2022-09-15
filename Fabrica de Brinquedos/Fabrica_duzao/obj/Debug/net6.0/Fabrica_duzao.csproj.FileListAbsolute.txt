@@ -1,0 +1,15 @@
+C:\Users\cinco\source\repos\Fabrica de Brinquedos\Fabrica_duzao\bin\Debug\net6.0\Fabrica_duzao.exe
+C:\Users\cinco\source\repos\Fabrica de Brinquedos\Fabrica_duzao\bin\Debug\net6.0\Fabrica_duzao.deps.json
+C:\Users\cinco\source\repos\Fabrica de Brinquedos\Fabrica_duzao\bin\Debug\net6.0\Fabrica_duzao.runtimeconfig.json
+C:\Users\cinco\source\repos\Fabrica de Brinquedos\Fabrica_duzao\bin\Debug\net6.0\Fabrica_duzao.dll
+C:\Users\cinco\source\repos\Fabrica de Brinquedos\Fabrica_duzao\bin\Debug\net6.0\Fabrica_duzao.pdb
+C:\Users\cinco\source\repos\Fabrica de Brinquedos\Fabrica_duzao\obj\Debug\net6.0\Fabrica_duzao.csproj.AssemblyReference.cache
+C:\Users\cinco\source\repos\Fabrica de Brinquedos\Fabrica_duzao\obj\Debug\net6.0\Fabrica_duzao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cinco\source\repos\Fabrica de Brinquedos\Fabrica_duzao\obj\Debug\net6.0\Fabrica_duzao.AssemblyInfoInputs.cache
+C:\Users\cinco\source\repos\Fabrica de Brinquedos\Fabrica_duzao\obj\Debug\net6.0\Fabrica_duzao.AssemblyInfo.cs
+C:\Users\cinco\source\repos\Fabrica de Brinquedos\Fabrica_duzao\obj\Debug\net6.0\Fabrica_duzao.csproj.CoreCompileInputs.cache
+C:\Users\cinco\source\repos\Fabrica de Brinquedos\Fabrica_duzao\obj\Debug\net6.0\Fabrica_duzao.dll
+C:\Users\cinco\source\repos\Fabrica de Brinquedos\Fabrica_duzao\obj\Debug\net6.0\refint\Fabrica_duzao.dll
+C:\Users\cinco\source\repos\Fabrica de Brinquedos\Fabrica_duzao\obj\Debug\net6.0\Fabrica_duzao.pdb
+C:\Users\cinco\source\repos\Fabrica de Brinquedos\Fabrica_duzao\obj\Debug\net6.0\Fabrica_duzao.genruntimeconfig.cache
+C:\Users\cinco\source\repos\Fabrica de Brinquedos\Fabrica_duzao\obj\Debug\net6.0\ref\Fabrica_duzao.dll

@@ -1,0 +1,15 @@
+C:\Users\cinco\source\repos\Fabrica de Brinquedos\Fabrica de Brinquedos\obj\Debug\net6.0\Fabrica de Brinquedos.csproj.AssemblyReference.cache
+C:\Users\cinco\source\repos\Fabrica de Brinquedos\Fabrica de Brinquedos\obj\Debug\net6.0\Fabrica de Brinquedos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cinco\source\repos\Fabrica de Brinquedos\Fabrica de Brinquedos\obj\Debug\net6.0\Fabrica de Brinquedos.AssemblyInfoInputs.cache
+C:\Users\cinco\source\repos\Fabrica de Brinquedos\Fabrica de Brinquedos\obj\Debug\net6.0\Fabrica de Brinquedos.AssemblyInfo.cs
+C:\Users\cinco\source\repos\Fabrica de Brinquedos\Fabrica de Brinquedos\obj\Debug\net6.0\Fabrica de Brinquedos.csproj.CoreCompileInputs.cache
+C:\Users\cinco\source\repos\Fabrica de Brinquedos\Fabrica de Brinquedos\bin\Debug\net6.0\Fabrica de Brinquedos.exe
+C:\Users\cinco\source\repos\Fabrica de Brinquedos\Fabrica de Brinquedos\bin\Debug\net6.0\Fabrica de Brinquedos.deps.json
+C:\Users\cinco\source\repos\Fabrica de Brinquedos\Fabrica de Brinquedos\bin\Debug\net6.0\Fabrica de Brinquedos.runtimeconfig.json
+C:\Users\cinco\source\repos\Fabrica de Brinquedos\Fabrica de Brinquedos\bin\Debug\net6.0\Fabrica de Brinquedos.dll
+C:\Users\cinco\source\repos\Fabrica de Brinquedos\Fabrica de Brinquedos\bin\Debug\net6.0\Fabrica de Brinquedos.pdb
+C:\Users\cinco\source\repos\Fabrica de Brinquedos\Fabrica de Brinquedos\obj\Debug\net6.0\Fabrica de Brinquedos.dll
+C:\Users\cinco\source\repos\Fabrica de Brinquedos\Fabrica de Brinquedos\obj\Debug\net6.0\refint\Fabrica de Brinquedos.dll
+C:\Users\cinco\source\repos\Fabrica de Brinquedos\Fabrica de Brinquedos\obj\Debug\net6.0\Fabrica de Brinquedos.pdb
+C:\Users\cinco\source\repos\Fabrica de Brinquedos\Fabrica de Brinquedos\obj\Debug\net6.0\Fabrica de Brinquedos.genruntimeconfig.cache
+C:\Users\cinco\source\repos\Fabrica de Brinquedos\Fabrica de Brinquedos\obj\Debug\net6.0\ref\Fabrica de Brinquedos.dll
